@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+img{
+    border: 5px solid white;
+    margin-left: 25%;
+}
+p{
+    text-align: center;
+}
